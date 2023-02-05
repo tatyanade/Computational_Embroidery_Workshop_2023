@@ -21,3 +21,7 @@ PEmbroider / Computational Embroidery Workshop at SFCI
 
 ### Install PEMbroider
 [Pembroider Download Page](https://github.com/CreativeInquiry/PEmbroider#getting-started-with-pembroider-in-processing)
+
+## PEmbroider Demo
+
+## How to Embroider!
