@@ -3,20 +3,36 @@ PEmbroider / Computational Embroidery Workshop at SFCI
 https://studioforcreativeinquiry.org/events/computational-embroidery-workshop
 ## Table of Contents
 
-1. [What Are Sewing Machines / Embroidery Machines](#what-is-a-sewing-machine)
-2. [What is PEmbroider](#what-is-pembroider)
-3. [Getting Set Up](#getting-set-up)
-4. [PEmbroider Demo](#pembroider-demo)
-5. [How to Use the Machine](#how-to-use-the-machine)
-6. [Artists & Work](#artists-and-work)
+1. [Timeline](#timeline)
+2. [What Are Sewing Machines / Embroidery Machines](#what-is-a-sewing-machine)
+3. [What is PEmbroider](#what-is-pembroider)
+4. [Getting Set Up](#getting-set-up)
+5. [PEmbroider Demo](#pembroider-demo)
+6. [How to Use the Machine](#how-to-use-the-machine)
+7. [Huw Messi](#huw-messi)
+8. [Lea Albaugh](#lea-albaugh)
+9. [Exploring Form](#exploring-form)
+10. [Artists & Work](#artists-and-work)
+
+## Timeline
+
+##### *10:00* Workshop starts & Intros
+##### *10:30* Intro to Machines and PEmbroider
+##### *12:00* Lunch!
+##### *12:30* Huw Messi
+##### *1:15* Lea Albaugh
+##### *2:00* Examples of other artists & a small break
+##### *2:30* Shape and Typography Excercise
+##### *4:00* open work time
+##### *5:30* wrapping things up
+
 
 ## What is a Sewing Machine!
-Click [Here](https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing) for our slide deck
+Click [Here](https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing) for slide deck
 
 
 ## What is PEmbroider
-
-[Slides](https://docs.google.com/presentation/d/1ey3uHHy27McXpXtmymkSrpin89E3ns2sV4r3ue7imy4/edit?usp=sharing)
+Click [Here](https://docs.google.com/presentation/d/1ey3uHHy27McXpXtmymkSrpin89E3ns2sV4r3ue7imy4/edit?usp=sharing) for slide deck
 
 [PEmbroider](https://github.com/CreativeInquiry/PEmbroider)
 
@@ -43,6 +59,17 @@ Click [Here](https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1O
 ## How to Use the Machine!
 *This section is an in person live demonstration *
 
+## Huw Messi
+description goes here
+
+[Huw Messi](https://huwmessie.com/)
+
+## Lea Albaugh
+Description goes here 
+
+[Lea Albaugh](http://lea.zone/)
+
+## Exploring Form
 
 ## Artists and Work
 #### People!
