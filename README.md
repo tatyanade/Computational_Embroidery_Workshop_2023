@@ -1,6 +1,6 @@
 # Embroider-Workshop-02-25-23
 PEmbroider / Computational Embroidery Workshop at SFCI
-
+https://studioforcreativeinquiry.org/events/computational-embroidery-workshop
 ## Table of Contents
 
 1. [What Are Sewing Machines / Embroidery Machines](#what-is-a-sewing-machine)
