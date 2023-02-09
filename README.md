@@ -11,8 +11,7 @@ PEmbroider / Computational Embroidery Workshop at SFCI
 6. [Artists & Work](#artists-and-work)
 
 ## What is a Sewing Machine!
-
-[Slides](https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing)
+Click [Here](https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing) for our slide deck
 
 
 ## What is PEmbroider
