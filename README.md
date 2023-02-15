@@ -2,6 +2,7 @@
 PEmbroider / Computational Embroidery Workshop at SFCI
 
 https://studioforcreativeinquiry.org/events/computational-embroidery-workshop
+
 ## Table of Contents
 
 1. [Timeline](#timeline)
@@ -37,6 +38,8 @@ Click [Here](https://docs.google.com/presentation/d/1ey3uHHy27McXpXtmymkSrpin89E
 
 [PEmbroider](https://github.com/CreativeInquiry/PEmbroider)
 
+
+https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet.md
 
 
 ## Getting Set Up
