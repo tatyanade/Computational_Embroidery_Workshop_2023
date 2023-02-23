@@ -7,8 +7,8 @@ https://studioforcreativeinquiry.org/events/computational-embroidery-workshop
 
 1. [Timeline](#timeline)
 2. [What Are Sewing Machines / Embroidery Machines](#what-is-a-sewing-machine)
-  3. [What is PEmbroider](#what-is-pembroider)
-  4. [Getting Set Up](#getting-set-up)
+3. [What is PEmbroider](#what-is-pembroider)
+4. [Getting Set Up](#getting-set-up)
 5. [PEmbroider Demo](#pembroider-demo)
 6. [How to Use the Machine](#how-to-use-the-machine)
 7. [Huw Messi](#huw-messi)
@@ -20,7 +20,7 @@ https://studioforcreativeinquiry.org/events/computational-embroidery-workshop
 
 February 25th 2023
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *10:00* Workshop starts & Intros
+##### *10:00* Workshop starts & Intros
 ##### *10:30* Intro to Machines and PEmbroider
 ##### *12:00* Lunch!
 ##### *12:30* Huw Messi
