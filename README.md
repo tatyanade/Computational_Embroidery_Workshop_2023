@@ -7,8 +7,8 @@ https://studioforcreativeinquiry.org/events/computational-embroidery-workshop
 
 1. [Timeline](#timeline)
 2. [What Are Sewing Machines / Embroidery Machines](#what-is-a-sewing-machine)
-3. [What is PEmbroider](#what-is-pembroider)
-4. [Getting Set Up](#getting-set-up)
+  3. [What is PEmbroider](#what-is-pembroider)
+  4. [Getting Set Up](#getting-set-up)
 5. [PEmbroider Demo](#pembroider-demo)
 6. [How to Use the Machine](#how-to-use-the-machine)
 7. [Huw Messi](#huw-messi)
