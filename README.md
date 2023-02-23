@@ -20,7 +20,7 @@ https://studioforcreativeinquiry.org/events/computational-embroidery-workshop
 
 February 25th 2023
 
-##### *10:00* Workshop starts & Intros
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *10:00* Workshop starts & Intros
 ##### *10:30* Intro to Machines and PEmbroider
 ##### *12:00* Lunch!
 ##### *12:30* Huw Messi
