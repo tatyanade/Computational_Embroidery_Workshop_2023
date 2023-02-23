@@ -65,6 +65,12 @@ https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet
 ## How to Use the Machine!
 *This section is an in person live demonstration *
 
+---
+#Wonderful Embroidery Artists!
+
+## Examples of Computational and Experimental Embroidery
+Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4TtG8VSkO8onIKhHigl0xn3PmlJVxeHjHBQ6iU5O0AwijhrTe6jEShGl6ci5QKUn556YA1CCbx/pub?start=false&loop=false&delayms=3000)
+
 ## Huw Messi
 "[Huw Messi] is an artist who produces work in the realm of experimental digital media and textiles". [(Huw Messi)](https://huwmessie.com/)
 
@@ -78,8 +84,9 @@ Huw will be discussing creating animations through embroidery.
 Lea will be discussing creative explorations with textiles machines.
 
 
+## Exploring Computational Embroidery through Embroidered Typography
+Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-OyskjZIaIB5jNzxxukyqoVCDe2XmsWOVkLA8TZQuS8MAPX_eZnAIyRwa_gKI4ocLUE1fDItWiu/pub?start=false&loop=false&delayms=3000)
 
-## Exploring Form
 
 ## Artists and Work
 #### People!
