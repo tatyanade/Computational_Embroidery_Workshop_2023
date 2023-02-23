@@ -18,6 +18,8 @@ https://studioforcreativeinquiry.org/events/computational-embroidery-workshop
 
 ## Timeline
 
+February 25th 2023
+
 ##### *10:00* Workshop starts & Intros
 ##### *10:30* Intro to Machines and PEmbroider
 ##### *12:00* Lunch!
