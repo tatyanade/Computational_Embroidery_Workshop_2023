@@ -1,4 +1,4 @@
-# Computational-Embroidery-Workshop-02-25-23
+# Computational-Embroidery-Workshop-2023
 PEmbroider / Computational Embroidery Workshop at SFCI
 
 https://studioforcreativeinquiry.org/events/computational-embroidery-workshop
