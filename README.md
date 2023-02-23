@@ -64,18 +64,18 @@ https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet
 *This section is an in person live demonstration *
 
 ## Huw Messi
-"[Huw Messi] is an artist who produces work in the realm of experimental digital media and textiles".
+"[Huw Messi] is an artist who produces work in the realm of experimental digital media and textiles". [(Huw Messi)](https://huwmessie.com/)
 
 Huw will be discussing creating animations through embroidery.
 
-[Huw Messi](https://huwmessie.com/)
+
 
 ## Lea Albaugh
-"[Lea Albaugh] is a PhD student at the Carnegie Mellon University Human-Computer Interaction Institute, working with the Morphing Matter Lab and the DevLab, and informally with the Textiles Lab". 
+"[Lea Albaugh] is a PhD student at the Carnegie Mellon University Human-Computer Interaction Institute, working with the Morphing Matter Lab and the DevLab, and informally with the Textiles Lab". [(Lea Albaugh)](http://lea.zone/)
 
 Lea will be discussing creative explorations with textiles machines.
 
-[Lea Albaugh](http://lea.zone/)
+
 
 ## Exploring Form
 
