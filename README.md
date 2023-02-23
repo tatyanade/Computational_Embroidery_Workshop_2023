@@ -64,13 +64,12 @@ https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet
 *This section is an in person live demonstration *
 
 ## Huw Messi
-description goes here
+Huw will be discussing creating animations through embroidery
 
 [Huw Messi](https://huwmessie.com/)
 
 ## Lea Albaugh
-Description goes here 
-
+Lea will be discussing creative explorations with textiles machines
 [Lea Albaugh](http://lea.zone/)
 
 ## Exploring Form
