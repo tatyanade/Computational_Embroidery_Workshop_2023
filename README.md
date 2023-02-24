@@ -1,4 +1,4 @@
-# Computational Embroidery Workshop 2023
+# :thread: Computational Embroidery Workshop 2023 :robot:
 ---
 ## Intro :wave::smile:
 Welcome to the Studio for Creative Inquiries **Computational Embroidery Workshop of 2023**! The goal of this workshop is to introduce the concepts and tools of computational embroidery as well as present enough compelling examples that you'll be excited to make some unique embroidered artifacts by the end of the day. To that end we'll begin the day explaining the **tools** of computational embroidery, then we'll walk through numerous **examples and artists talks**, then finally we'll give a work through some functional examples and we'll go into **work time**.
