@@ -36,7 +36,8 @@ February 25th, 2023
 ##### *1:15* Lea Albaugh
 ##### *2:00* Examples of other artists & a small break
 ##### *2:30* Shape and Typography Excercise
-##### *4:00* open work time
+##### *3:30* open work time
+##### *5:00* show and tell
 ##### *5:30* wrapping things up
 
 
