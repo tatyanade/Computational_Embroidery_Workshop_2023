@@ -71,29 +71,23 @@ https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet
 *This section is an in person live demonstration *
 
 ---
-# Wonderful Embroidery Artists!
+## Wonderful Embroidery Artists!
 
-## Examples of Computational and Experimental Embroidery
-Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4TtG8VSkO8onIKhHigl0xn3PmlJVxeHjHBQ6iU5O0AwijhrTe6jEShGl6ci5QKUn556YA1CCbx/pub?start=false&loop=false&delayms=3000)
-
-## Huw Messi
+### Huw Messi
 "[Huw Messi] is an artist who produces work in the realm of experimental digital media and textiles". [(Huw Messi)](https://huwmessie.com/)
 
 Huw will be discussing creating animations through embroidery.
 
 
 
-## Lea Albaugh
+### Lea Albaugh
 "[Lea Albaugh] is a PhD student at the Carnegie Mellon University Human-Computer Interaction Institute, working with the Morphing Matter Lab and the DevLab, and informally with the Textiles Lab". [(Lea Albaugh)](http://lea.zone/)
 
 Lea will be discussing creative explorations with textiles machines.
 
-
-## Exploring Computational Embroidery through Embroidered Typography
-Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-OyskjZIaIB5jNzxxukyqoVCDe2XmsWOVkLA8TZQuS8MAPX_eZnAIyRwa_gKI4ocLUE1fDItWiu/pub?start=false&loop=false&delayms=3000)
-
-
 ## Artists and Work
+Add a blurbie blurb here
+Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4TtG8VSkO8onIKhHigl0xn3PmlJVxeHjHBQ6iU5O0AwijhrTe6jEShGl6ci5QKUn556YA1CCbx/pub?start=false&loop=false&delayms=3000)
 #### People!
 [Huw Messi](https://huwmessie.com/)
 
@@ -102,8 +96,13 @@ Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-O
 [Meredith Woolnough](https://meredithwoolnough.com.au/)
 
 
-#### Projects
+#### Projects 
 
 [Embroidered Computer - Irene Posch](http://www.ireneposch.net/embroidering-a-computer/)
 
 [Magna Carta - An Embroidery](https://en.wikipedia.org/wiki/Magna_Carta_(An_Embroidery))
+
+
+## Exploring Computational Embroidery through Embroidered Typography
+Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-OyskjZIaIB5jNzxxukyqoVCDe2XmsWOVkLA8TZQuS8MAPX_eZnAIyRwa_gKI4ocLUE1fDItWiu/pub?start=false&loop=false&delayms=3000)
+
