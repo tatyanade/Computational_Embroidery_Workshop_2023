@@ -124,8 +124,8 @@ Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-O
 1. [How to run the machine](https://docs.google.com/presentation/d/e/2PACX-1vQVq65vxieUifnK--Cz89FvC3j3btl6008KHzywgw5TtX3Pc2qGqh7uq2OmRntF-iHUWrgH4VbgR600/pub?start=false&loop=false&delayms=3000)
 2. [PEmbroider Cheat sheet]
 3. Machine file types:
-        1. **Brother:** .pes
-        2. **Husqvarna:** .vp3
+    1. **Brother:** .pes
+    2. **Husqvarna:** .vp3
 #### Materials List
 1. Muslin
 2. Tear away or water soluble stabilizer
