@@ -1,24 +1,25 @@
 # Computational Embroidery Workshop 2023
-PEmbroider / Computational Embroidery Workshop at SFCI
+---
+## Intro
+Welcome to the Studio for Creative Inquiries Computational Embroidery Workshop of 2023! The goal of this workshop is to introduce you to the concepts and tools of computational embroidery as well as present you with enough compelling examples that you'll be excited to make some cool embroidered artifacts by the end of the day. To that end we'll begin the day explaining the **tools** of computational embroidery, then we'll walk through numerous examples and have artists talks, then finally we'll give a final set of demos and we'll go into work time.
 
-https://studioforcreativeinquiry.org/events/computational-embroidery-workshop
+*Find the link to the Studio's worshop page [here](https://studioforcreativeinquiry.org/events/computational-embroidery-workshop).*
 
-## Table of Contents
+### Table of Contents
 
-1. [Timeline](#timeline)
-2. [What Are Sewing Machines / Embroidery Machines](#what-is-a-sewing-machine)
-3. [What is PEmbroider](#what-is-pembroider)
-4. [Getting Set Up](#getting-set-up)
-5. [PEmbroider Demo](#pembroider-demo)
-6. [How to Use the Machine](#how-to-use-the-machine)
-7. [Huw Messi](#huw-messi)
+1. [What Are Sewing Machines / Embroidery Machines](#what-is-a-sewing-machine)
+2. [What is PEmbroider](#what-is-pembroider)
+3. [Getting Set Up](#getting-set-up)
+4. [PEmbroider Demo](#pembroider-demo)
+5. [How to Use the Machine](#how-to-use-the-machine)
+6. [Huw Messi](#huw-messi)
 8. [Lea Albaugh](#lea-albaugh)
 9. [Exploring Form](#exploring-form)
 10. [Artists & Work](#artists-and-work)
 
-## Timeline
+### Timeline
 
-February 25th 2023
+February 25th, 2023
 
 ##### *10:00* Workshop starts & Intros
 ##### *10:30* Intro to Machines and PEmbroider
@@ -31,10 +32,10 @@ February 25th 2023
 ##### *5:30* wrapping things up
 
 
+---
 ## What is a Sewing Machine!
-Click [Here](https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing) for slide deck
-<a href="https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing" target="_blank">here</a>
-[go](http://stackoverflow.com){:target="_blank"}
+
+Click [Here](https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing) for slide deck. We'll discuss a lil' bit of the history and inner workings of sewing machines, 
 
 ## What is PEmbroider
 Click [Here](https://docs.google.com/presentation/d/1ey3uHHy27McXpXtmymkSrpin89E3ns2sV4r3ue7imy4/edit?usp=sharing) for slide deck
