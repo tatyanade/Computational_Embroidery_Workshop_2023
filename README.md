@@ -21,7 +21,7 @@ This workshop is lead by David Perry & Tatyana Mustakos, both of whom were have 
     3. [Artists and Work](#artists-and-work)
 10. [Exploring Computational Embroidery Through Patches!](#exploring-computational-embroidery-through-patches)
     1. [Worked Examples]
-    2. [Helpful tips & links for Worktime]
+    2. [Helpful tips & links for Worktime](#helpful-tips-for-worktime)
 
 
 
