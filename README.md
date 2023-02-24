@@ -7,16 +7,18 @@ Welcome to the Studio for Creative Inquiries **Computational Embroidery Workshop
 
 ### Table of Contents
 
-1. [What Are Sewing Machines / Embroidery Machines](#what-is-a-sewing-machine)
-2. [What is PEmbroider](#what-is-pembroider)
-3. [Getting Set Up](#getting-set-up)
-4. [PEmbroider Demo](#pembroider-demo)
-5. [How to Use the Machine](#how-to-use-the-machine)
-6. Wonderful Embroidery Artists & Work!
+1. The Tools! How do we do Computational Embroidery?
+    1. [What Are Sewing Machines / Embroidery Machines](#what-is-a-sewing-machine)
+    2. [What is PEmbroider](#what-is-pembroider)
+    1. [Getting Set Up](#getting-set-up)
+    1. [PEmbroider Demo](#pembroider-demo)
+    1. [How to Use the Machine](#how-to-use-the-machine)
+6. [Wonderful Embroidery Artists & Work!](Wonderful-Embroidery-Artists)
     1. [Huw Messi](#huw-messi)
     2. [Lea Albaugh](#lea-albaugh)
     3. [Artists and Work](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/README.md#artists-and-work)
 10. [Exploring Patches!](#exploring-form)
+
 
 
 ### Timeline
