@@ -15,7 +15,7 @@ Welcome to the Studio for Creative Inquiries **Computational Embroidery Workshop
 6. Wonderful Embroidery Artists & Work!
     1. [Huw Messi](#huw-messi)
     2. [Lea Albaugh](#lea-albaugh)
-    3. [Artists and Work]
+    3. [Artists and Work](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/README.md#artists-and-work)
 10. [Exploring Patches!](#exploring-form)
 
 
