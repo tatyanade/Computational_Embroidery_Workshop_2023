@@ -33,6 +33,7 @@ February 25th 2023
 
 ## What is a Sewing Machine!
 Click [Here](https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing) for slide deck
+<a href="https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing" target="_blank">here</a>
 
 
 ## What is PEmbroider
