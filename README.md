@@ -14,12 +14,12 @@ This workshop is lead by David Perry & Tatyana Mustakos, both of whom were have 
     2. [What is PEmbroider](#what-is-pembroider)
     1. [Getting Set Up](#getting-set-up)
     1. [PEmbroider Demo](#pembroider-demo)
-    1. [How to Use the Machine](#how-to-use-the-machine)
+    1. [Running the Machine](#how-to-use-the-machine)
 6. [Wonderful Embroidery Artists & Work! What does Computational and Experimental Embroidery look like?](Wonderful-Embroidery-Artists)
     1. [Huw Messi](#huw-messi)
     2. [Lea Albaugh](#lea-albaugh)
     3. [Artists and Work](#artists-and-work)
-10. [Exploring Computational Embroidery Through Patches!](#lets-make-patches)
+10. [Exploring Computational Embroidery Through Patches!](#exploring-computational-embroidery-through-patches)
     1. 
 
 
@@ -93,7 +93,7 @@ Huw will be discussing creating animations through embroidery.
 
 Lea will be discussing creative explorations with textiles machines.
 
-## Artists and Work
+## Additional Artists and Work
 Add a blurbie blurb here
 Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4TtG8VSkO8onIKhHigl0xn3PmlJVxeHjHBQ6iU5O0AwijhrTe6jEShGl6ci5QKUn556YA1CCbx/pub?start=false&loop=false&delayms=3000)
 #### People!
@@ -115,12 +115,13 @@ Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4
 ---
 ## Exploring Computational Embroidery Through Patches!
 
-### Some patchy examples
+### Worked examples and how to get what you want <-------------- TO DO
 Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-OyskjZIaIB5jNzxxukyqoVCDe2XmsWOVkLA8TZQuS8MAPX_eZnAIyRwa_gKI4ocLUE1fDItWiu/pub?start=false&loop=false&delayms=3000). 
 
 
 ### Notes & Links for Worktime
-1. How to run the machine
+1. [How to run the machine](https://docs.google.com/presentation/d/e/2PACX-1vQVq65vxieUifnK--Cz89FvC3j3btl6008KHzywgw5TtX3Pc2qGqh7uq2OmRntF-iHUWrgH4VbgR600/pub?start=false&loop=false&delayms=3000)
+2. 
 
 #### Materials List
 1. Muslin
