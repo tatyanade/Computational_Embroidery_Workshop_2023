@@ -14,8 +14,9 @@ Welcome to the Studio for Creative Inquiries Computational Embroidery Workshop o
 5. [How to Use the Machine](#how-to-use-the-machine)
 6. [Huw Messi](#huw-messi)
 8. [Lea Albaugh](#lea-albaugh)
-9. [Exploring Form](#exploring-form)
-10. [Artists & Work](#artists-and-work)
+10. [Artists and Work]
+9. [Exploring Patches!](#exploring-form)
+
 
 ### Timeline
 
@@ -33,11 +34,12 @@ February 25th, 2023
 
 
 ---
-## What is a Sewing Machine!
+## Intro to Machines and PEmbroider
+### What is a Sewing Machine!
 
 Click [Here](https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing) for slide deck. We'll discuss a lil' bit of the history and inner workings of sewing machines, 
 
-## What is PEmbroider
+### What is PEmbroider
 Click [Here](https://docs.google.com/presentation/d/1ey3uHHy27McXpXtmymkSrpin89E3ns2sV4r3ue7imy4/edit?usp=sharing) for slide deck
 
 [PEmbroider](https://github.com/CreativeInquiry/PEmbroider)
@@ -46,16 +48,16 @@ Click [Here](https://docs.google.com/presentation/d/1ey3uHHy27McXpXtmymkSrpin89E
 https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet.md
 
 
-## Getting Set Up
+#### Getting Set Up
 [Installing Processing and PEmbroider](https://docs.google.com/presentation/d/1Rkik3dFekY7exA3-JYtDWrCEm20HoNXpOyrrppvycws/edit?usp=sharing)
 
-### Links
+##### Links
 
 [Install Processing ](https://processing.org/download)
 
 [Install PEmbroider](https://github.com/CreativeInquiry/PEmbroider#getting-started-with-pembroider-in-processing)
 
-## PEmbroider Demo
+### PEmbroider Demo
 *This section is an in person live demonstration *
 <!--  Live Demo of generative faces-->
 [PEmbroider Demo](https://github.com/tatyanade/PEmbroider_Demo/blob/main/README.md)
@@ -64,7 +66,7 @@ https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet
 
 [Template](https://github.com/tatyanade/PEmbroider_Demo/blob/main/Files/PEmbroider_Template/PEmbroider_Template.pde)
 
-## How to Use the Machine!
+### How to Use the Machine!
 *This section is an in person live demonstration *
 
 ---
