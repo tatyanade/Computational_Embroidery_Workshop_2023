@@ -7,7 +7,7 @@ This workshop is lead by David Perry & Tatyana Mustakos, both of whom were have 
 
 *Find the link to the Studio's worshop page [here](https://studioforcreativeinquiry.org/events/computational-embroidery-workshop).*
 
-### Table of Contents
+### Table of Contents :page_with_curl:
 
 1. [The Tools! How do we do Computational Embroidery?](#the-tools---intro-to-machines-and-pembroider)
     1. [What Are Sewing Machines / Embroidery Machines](#what-is-a-sewing-machine)
@@ -24,7 +24,7 @@ This workshop is lead by David Perry & Tatyana Mustakos, both of whom were have 
 
 
 
-### Timeline
+### Timeline :timer_clock:
 
 February 25th, 2023
 
