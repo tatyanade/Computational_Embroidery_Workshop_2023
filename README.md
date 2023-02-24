@@ -1,7 +1,7 @@
 # :thread: Computational Embroidery Workshop 2023 :thread:
 ---
 ## Intro :wave::smile:
-Welcome to the Studio for Creative Inquiries **Computational Embroidery Workshop of 2023**! The goal of this workshop is to introduce the concepts and tools of computational embroidery as well as present enough compelling examples that you'll be excited to make some unique embroidered artifacts by the end of the day. To that end we'll begin the day explaining the **tools** of computational embroidery, then we'll walk through numerous **examples and artists talks**, then finally we'll give a work through some functional examples and we'll go into **work time**.
+Welcome to the Studio for Creative Inquiries **Computational Embroidery Workshop of 2023**! The goal of this workshop is to introduce the concepts and tools of computational embroidery as well as present enough compelling examples that you'll be excited to make some unique embroidered artifacts by the end of the day. To that end we'll begin the day explaining the **tools** of computational embroidery, then we'll walk through numerous **examples and artists talks**, then finally we'll give a work through some functional examples and then **work time**.
 
 This workshop is lead by David Perry & Tatyana Mustakos, both of whom were have worked with and created custom tools with PEmbroider.
 
@@ -20,7 +20,8 @@ This workshop is lead by David Perry & Tatyana Mustakos, both of whom were have 
     2. [Lea Albaugh](#lea-albaugh)
     3. [Artists and Work](#artists-and-work)
 10. [Exploring Computational Embroidery Through Patches!](#exploring-computational-embroidery-through-patches)
-    1. 
+    1. [Worked Examples]
+    2. [Helpful tips & links for Worktime]
 
 
 
@@ -119,7 +120,7 @@ Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4
 Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-OyskjZIaIB5jNzxxukyqoVCDe2XmsWOVkLA8TZQuS8MAPX_eZnAIyRwa_gKI4ocLUE1fDItWiu/pub?start=false&loop=false&delayms=3000). 
 
 
-### Notes & Links for Worktime
+### Helpful tips for Worktime
 1. [How to run the machine](https://docs.google.com/presentation/d/e/2PACX-1vQVq65vxieUifnK--Cz89FvC3j3btl6008KHzywgw5TtX3Pc2qGqh7uq2OmRntF-iHUWrgH4VbgR600/pub?start=false&loop=false&delayms=3000)
 2. 
 
