@@ -68,7 +68,7 @@ https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet
 [Template](https://github.com/tatyanade/PEmbroider_Demo/blob/main/Files/PEmbroider_Template/PEmbroider_Template.pde)
 
 ### How to Use the Machine!
-*This section is an in person live demonstration *
+
 
 ---
 ## Wonderful Embroidery Artists!
@@ -102,7 +102,16 @@ Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4
 
 [Magna Carta - An Embroidery](https://en.wikipedia.org/wiki/Magna_Carta_(An_Embroidery))
 
+[Threadsteading - Lea Albaugh & CMU Textiles](https://dl.acm.org/doi/10.1145/2851581.2889466)
 
-## Exploring Computational Embroidery through Embroidered Typography
+---
+## Lets make patches!
+
+### Some patchy examples
 Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-OyskjZIaIB5jNzxxukyqoVCDe2XmsWOVkLA8TZQuS8MAPX_eZnAIyRwa_gKI4ocLUE1fDItWiu/pub?start=false&loop=false&delayms=3000)
 
+### Worktime Materials list
+
+### Notes & Links for Worktime
+#### Machine file type table
+---
