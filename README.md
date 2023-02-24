@@ -49,8 +49,6 @@ February 25th, 2023
 
 Click [Here](https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing) for slide deck. We'll discuss a lil' bit of the history and inner workings of sewing machines,
 
-<a href="https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing" target="_blank">Here</a>
-
 ### What is PEmbroider
 Click [Here](https://docs.google.com/presentation/d/1ey3uHHy27McXpXtmymkSrpin89E3ns2sV4r3ue7imy4/edit?usp=sharing) for slide deck
 
