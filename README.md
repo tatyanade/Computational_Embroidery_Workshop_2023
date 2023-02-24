@@ -29,23 +29,27 @@ This workshop is lead by David Perry & Tatyana Mustakos, both of whom were have 
 
 February 25th, 2023
 
-##### *10:00* Workshop starts & Intros
-##### *10:30* Intro to Machines and PEmbroider
-##### *12:00* Lunch!
-##### *12:30* Huw Messi
-##### *1:15* Lea Albaugh
-##### *2:00* Examples of other artists & a small break
-##### *2:30* Shape and Typography Excercise
-##### *3:30* open work time
-##### *5:00* show and tell
-##### *5:30* wrapping things up
+| Time | Description |
+| --- | --- |
+|  *10:00* |  Workshop starts & Intros|
+|  *10:30* |Intro to Machines and PEmbroider|
+|  *12:00* |Lunch!|
+|  *12:30* |Huw Messi| 
+|  *1:15* |Lea Albaugh |
+|  *2:00* |Examples of other artists & a small break |
+|  *2:30* |Shape and Typography Excercise |
+|  *3:30* |open work time |
+|  *5:00* |show and tell |
+|  *5:30* |wrapping things up |
 
 
 ---
 ## The Tools - Intro to Machines and PEmbroider
 ### What is a Sewing Machine!
 
-Click [Here](https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing) for slide deck. We'll discuss a lil' bit of the history and inner workings of sewing machines, 
+Click [Here](https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing) for slide deck. We'll discuss a lil' bit of the history and inner workings of sewing machines,
+
+<a href="https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing" target="_blank">Here</a>
 
 ### What is PEmbroider
 Click [Here](https://docs.google.com/presentation/d/1ey3uHHy27McXpXtmymkSrpin89E3ns2sV4r3ue7imy4/edit?usp=sharing) for slide deck
