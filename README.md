@@ -12,10 +12,11 @@ Welcome to the Studio for Creative Inquiries Computational Embroidery Workshop o
 3. [Getting Set Up](#getting-set-up)
 4. [PEmbroider Demo](#pembroider-demo)
 5. [How to Use the Machine](#how-to-use-the-machine)
-6. [Huw Messi](#huw-messi)
-8. [Lea Albaugh](#lea-albaugh)
-10. [Artists and Work]
-9. [Exploring Patches!](#exploring-form)
+6. Wonderful Embroidery Artiists!
+  1. [Huw Messi](#huw-messi)
+  2. [Lea Albaugh](#lea-albaugh)
+9. [Artists and Work]
+10. [Exploring Patches!](#exploring-form)
 
 
 ### Timeline
