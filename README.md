@@ -3,21 +3,24 @@
 ## Intro
 Welcome to the Studio for Creative Inquiries **Computational Embroidery Workshop of 2023**! The goal of this workshop is to introduce the concepts and tools of computational embroidery as well as present enough compelling examples that you'll be excited to make some unique embroidered artifacts by the end of the day. To that end we'll begin the day explaining the **tools** of computational embroidery, then we'll walk through numerous **examples and artists talks**, then finally we'll give a work through some functional examples and we'll go into **work time**.
 
+This workshop is lead by David Perry & Tatyana Mustakos, both of whom were have worked with and created custom tools with PEmbroider.
+
 *Find the link to the Studio's worshop page [here](https://studioforcreativeinquiry.org/events/computational-embroidery-workshop).*
 
 ### Table of Contents
 
-1. The Tools! How do we do Computational Embroidery?
+1. [The Tools! How do we do Computational Embroidery?](#the-tools---intro-to-machines-and-pembroider)
     1. [What Are Sewing Machines / Embroidery Machines](#what-is-a-sewing-machine)
     2. [What is PEmbroider](#what-is-pembroider)
     1. [Getting Set Up](#getting-set-up)
     1. [PEmbroider Demo](#pembroider-demo)
     1. [How to Use the Machine](#how-to-use-the-machine)
-6. [Wonderful Embroidery Artists & Work!](Wonderful-Embroidery-Artists)
+6. [Wonderful Embroidery Artists & Work! What does Computational and Experimental Embroidery look like?](Wonderful-Embroidery-Artists)
     1. [Huw Messi](#huw-messi)
     2. [Lea Albaugh](#lea-albaugh)
-    3. [Artists and Work](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/README.md#artists-and-work)
-10. [Exploring Patches!](#exploring-form)
+    3. [Artists and Work](#artists-and-work)
+10. [Exploring Computational Embroidery Through Patches!](#lets-make-patches)
+    1. 
 
 
 
@@ -37,7 +40,7 @@ February 25th, 2023
 
 
 ---
-## Intro to Machines and PEmbroider
+## The Tools - Intro to Machines and PEmbroider
 ### What is a Sewing Machine!
 
 Click [Here](https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing) for slide deck. We'll discuss a lil' bit of the history and inner workings of sewing machines, 
@@ -70,7 +73,10 @@ https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet
 [Template](https://github.com/tatyanade/PEmbroider_Demo/blob/main/Files/PEmbroider_Template/PEmbroider_Template.pde)
 
 ### How to Use the Machine!
-
+1. Generate file
+2. Hooping Fabric
+3. Transfering file to machine
+4. 
 
 ---
 ## Wonderful Embroidery Artists!
@@ -107,13 +113,20 @@ Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4
 [Threadsteading - Lea Albaugh & CMU Textiles](https://dl.acm.org/doi/10.1145/2851581.2889466)
 
 ---
-## Lets make patches!
+## Exploring Computational Embroidery Through Patches!
 
 ### Some patchy examples
-Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-OyskjZIaIB5jNzxxukyqoVCDe2XmsWOVkLA8TZQuS8MAPX_eZnAIyRwa_gKI4ocLUE1fDItWiu/pub?start=false&loop=false&delayms=3000)
+Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-OyskjZIaIB5jNzxxukyqoVCDe2XmsWOVkLA8TZQuS8MAPX_eZnAIyRwa_gKI4ocLUE1fDItWiu/pub?start=false&loop=false&delayms=3000). 
 
-### Worktime Materials list
 
 ### Notes & Links for Worktime
+1. How to run the machine
+
+#### Materials List
+1. Muslin
+2. Tear away or water soluble stabilizer
+3. USB Stick (shared)
+
 #### Machine file type table
+
 ---
