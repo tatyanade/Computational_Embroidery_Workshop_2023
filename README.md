@@ -47,28 +47,32 @@ February 25th, 2023
 ## The Tools - Intro to Machines and PEmbroider
 ### What is a Sewing Machine!
 
-Click [Here](https://docs.google.com/presentation/d/1jdf9zSTdvqLYPZwTJ3I7atYSe1OBrjK7iJ299JE3tek/edit?usp=sharing) for slide deck. Here discuss a lil' bit of the history and inner workings of sewing machines. Then we'll discuss how embroidery move fabric under the needle, during stitching, to create an image or design.
+###### *Click [Here](https://docs.google.com/presentation/d/e/2PACX-1vTAdaZe6wcDj0Bdsu92sa7bdMMFb0F99oHa8dLMGpH5MlVAOQsQtwssvYYpROB5wzAfOXuxg8wqC0Gc/pub?start=false&loop=false&delayms=15000) for slide deck*
+
+Here discuss a lil' bit of the history and inner workings of sewing machines. Then we'll discuss how embroidery move fabric under the needle, during stitching, to create an image or design.
+
 
 ### What is PEmbroider
-Click [Here](https://docs.google.com/presentation/d/1ey3uHHy27McXpXtmymkSrpin89E3ns2sV4r3ue7imy4/edit?usp=sharing) for slide deck
-[PEmbroider](https://github.com/CreativeInquiry/PEmbroider)
+###### *Click [Here](https://docs.google.com/presentation/d/e/2PACX-1vTvHAkeKiNmpaEclSHen1-ROau-8CIkmksxLbkOZCaBrQ9BSF6G7DD-NdhMurh_-6aqw1FikYbM9SCa/pub?start=false&loop=false&delayms=60000) for slide deck*
 
+[PEmbroider](https://github.com/CreativeInquiry/PEmbroider)
 
 https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet.md
 
 
-#### Getting Set Up
+### Getting Set Up
 
 Processing and PEmbroider should be installed before the workshop as per the [event page](https://studioforcreativeinquiry.org/events/computational-embroidery-workshop), but we will be walking through the installation and setup process
 
-###### Links to Download
+##### Links to Download
 
  1. Install Processing [HERE](https://processing.org/download)
  2. Install PEmbroider [HERE](https://github.com/CreativeInquiry/PEmbroider#getting-started-with-pembroider-in-processing)
 
-###### How to Install
+##### How to Install
 
-  1. F[Installing Processing and PEmbroider](https://docs.google.com/presentation/d/1Rkik3dFekY7exA3-JYtDWrCEm20HoNXpOyrrppvycws/edit?usp=sharing)
+  1. [Installing Processing and PEmbroider](https://docs.google.com/presentation/d/e/2PACX-1vRRvHZRXIBePEvfNOJps9N09HPVgnTRHcnVxAtIf0SRiQX-ZLimC-N8CHJ2XppZWlxxs4hwkUb9PLic/pub?start=false&loop=false&delayms=30000)
+
 
 ### PEmbroider Demo
 *This section is an in person live demonstration *
