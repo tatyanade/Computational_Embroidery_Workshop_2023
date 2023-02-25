@@ -60,7 +60,7 @@ Here discuss a lil' bit of the history and inner workings of sewing machines. Th
 
 [PEmbroider](https://github.com/CreativeInquiry/PEmbroider)
 
-https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet.md
+[PEmbroider Cheat Sheet](https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet.md)
 
 
 ### Getting Set Up
@@ -153,4 +153,4 @@ You'll be walking away from this workshop with a custom patch! Make something un
 3. USB Stick (shared)
 ---
 
-##Show & Tell!!!
+## Show & Tell!!!
