@@ -8,7 +8,7 @@ public void setup() {
   
   //File setup info
   E = new PEmbroiderGraphics(this, width, height);
-  String outputFilePath = sketchPath("frame_circle.pes");
+  String outputFilePath = sketchPath("file_name.pes");
   E.setPath(outputFilePath);
   
   //Starts Drawing
@@ -34,5 +34,5 @@ public void setup() {
   //E.optimize(); // slow but good and important
   E.visualize(true, true, true); 
   //E.endDraw(); // write out the file
-  //save("File_Name.png");  //outputs a screenshot
+  //save("file_name.png");  //outputs a screenshot
 }
