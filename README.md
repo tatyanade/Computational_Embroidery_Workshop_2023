@@ -138,7 +138,7 @@ Lea will be discussing creative explorations with textiles machines.
 We walk through some techniques for creating dimensional and interesting pathches. See the next section for the project!
 
 ### Patches Project
-###### *Link to slide deck [here].*
+###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vQ9d60TNxQwBDGkGjD2NlqAZdWdSVCR6IYpXMld13OkkHtLOA68R7ryzWXJ3EKyPWxzzioLw_KydzDf/pub?start=false&loop=false&delayms=10000).*
 You'll be walking away from this workshop with a custom patch! Make something unique and experiment!
 
 ### Helpful tips for Worktime
