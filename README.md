@@ -85,6 +85,9 @@ Processing and PEmbroider should be installed before the workshop as per the [ev
 [Template](https://github.com/tatyanade/PEmbroider_Demo/blob/main/Files/PEmbroider_Template/PEmbroider_Template.pde)
 
 ### How to Use the Machine
+
+###### *Click [Here](https://docs.google.com/presentation/d/e/2PACX-1vQVq65vxieUifnK--Cz89FvC3j3btl6008KHzywgw5TtX3Pc2qGqh7uq2OmRntF-iHUWrgH4VbgR600/pub?start=false&loop=false&delayms=3000) for slide deck*
+
 We'll walk through the basic steps of running a design on the machine as enumerated in the following list.
 1. Generate file
 2. Hooping Fabric
