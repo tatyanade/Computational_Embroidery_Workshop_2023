@@ -63,7 +63,7 @@ https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet
 
 ### Getting Set Up
 
-Processing and PEmbroider should be installed before the workshop as per the [event page](https://studioforcreativeinquiry.org/events/computational-embroidery-workshop), but we will be walking through the installation and setup process
+Processing and PEmbroider should be installed before the workshop following the [event page](https://studioforcreativeinquiry.org/events/computational-embroidery-workshop) instructions, but we will be taking a moment to go through the installation and assist with setup
 
 ##### Links to Download
 
@@ -78,11 +78,24 @@ Processing and PEmbroider should be installed before the workshop as per the [ev
 ### PEmbroider Demo
 *This section is an in person live demonstration *
 <!--  Live Demo of generative faces-->
-[PEmbroider Demo](https://github.com/tatyanade/PEmbroider_Demo/blob/main/README.md)
 
-[Code](https://github.com/tatyanade/PEmbroider_Demo/blob/main/Files/Generative_Faces/Generative_Faces.pde)
+#### Demo 1 - Basic Shapes using the Template File
+###### *click [HERE](https://github.com/tatyanade/PEmbroider_Demo/blob/main/Files/PEmbroider_Template/PEmbroider_Template.pde) for the template file*
 
-[Template](https://github.com/tatyanade/PEmbroider_Demo/blob/main/Files/PEmbroider_Template/PEmbroider_Template.pde)
+This demonstration will walk you through the PEmbroider template file and show how to create some simple shapes
+
+#### Demo 2 - Freehand Draw
+###### *click [HERE](https://github.com/CreativeInquiry/PEmbroider/blob/master/examples/PEmbroider_interactive_demo_2/PEmbroider_interactive_demo_2.pde) for the template file*
+
+This demonstration will walk you through using the example/interactive_demo_2, which lets you draw embrioderies with your cursor
+
+A more robust version of this sketch exists at [examples/PEmbroider_editor](https://github.com/CreativeInquiry/PEmbroider/blob/master/examples/PEmbroider_Editor/PEmbroider_Editor.pde)
+
+##### Demo - Generative Faces: This ddemo is not covered during workshop, but is a quick demo on making generative faces
+
+###### PEmbroider Demo](https://github.com/tatyanade/PEmbroider_Demo/blob/main/README.md)
+
+###### [Code](https://github.com/tatyanade/PEmbroider_Demo/blob/main/Files/Generative_Faces/Generative_Faces.pde)
 
 ### How to Use the Machine
 
@@ -124,7 +137,7 @@ Lea will be discussing creative explorations with textiles machines.
 
 [Embroidered Computer - Irene Posch](http://www.ireneposch.net/embroidering-a-computer/)
 
-[Magna Carta - An Embroidery](https://en.wikipedia.org/wiki/Magna_Carta_(An_Embroidery))
+[Magna Carta (An Embroidery) - Cornelia Parker](https://en.wikipedia.org/wiki/Magna_Carta_(An_Embroidery))
 
 [Threadsteading - Lea Albaugh & CMU Textiles](https://dl.acm.org/doi/10.1145/2851581.2889466)
 
