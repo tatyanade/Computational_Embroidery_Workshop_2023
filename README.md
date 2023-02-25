@@ -20,7 +20,7 @@ This workshop is lead by David Perry & Tatyana Mustakos, both of whom were have 
     2. [Lea Albaugh](#lea-albaugh)
     3. [Artists and Work](#artists-and-work)
 10. [Exploring Computational Embroidery Through Patches!](#exploring-computational-embroidery-through-patches)
-    1. [Worked Examples]
+    1. [Examples](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/edit/main/README.md#how-to-get-what-you-want-for-with-embroidered-patches)
     2. [Helpful tips & links for Worktime](#helpful-tips-for-worktime)
 
 
@@ -150,7 +150,7 @@ Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-O
 
 ### Helpful tips for Worktime
 1. [How to run the machine](https://docs.google.com/presentation/d/e/2PACX-1vQVq65vxieUifnK--Cz89FvC3j3btl6008KHzywgw5TtX3Pc2qGqh7uq2OmRntF-iHUWrgH4VbgR600/pub?start=false&loop=false&delayms=3000)
-2. [PEmbroider Cheat sheet]
+2. [PEmbroider Cheat sheet] (https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet.md)
 3. Machine file types:
     1. **Brother:** .pes
     2. **Husqvarna:** .vp3
@@ -158,7 +158,6 @@ Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-O
 1. Muslin
 2. Tear away or water soluble stabilizer
 3. USB Stick (shared)
-
-#### Machine file type table
-
 ---
+
+##Show & Tell!!!
