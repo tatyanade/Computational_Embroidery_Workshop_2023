@@ -84,11 +84,13 @@ Processing and PEmbroider should be installed before the workshop as per the [ev
 
 [Template](https://github.com/tatyanade/PEmbroider_Demo/blob/main/Files/PEmbroider_Template/PEmbroider_Template.pde)
 
-### How to Use the Machine!
+### How to Use the Machine
+We'll walk through the basic steps of running a design on the machine as enumerated in the following list.
 1. Generate file
 2. Hooping Fabric
 3. Transfering file to machine
-4. 
+4. Using embroidery machine interface (Huskavarna & Brother + Industrial Machine)
+5. Running your file!
 
 ---
 ## Wonderful Embroidery Artists & Work!
