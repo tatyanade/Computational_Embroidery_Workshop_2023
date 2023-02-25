@@ -59,13 +59,17 @@ https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet
 
 
 #### Getting Set Up
-[Installing Processing and PEmbroider](https://docs.google.com/presentation/d/1Rkik3dFekY7exA3-JYtDWrCEm20HoNXpOyrrppvycws/edit?usp=sharing)
 
-##### Links
+Processing and PEmbroider should be installed before the workshop as per the [event page](https://studioforcreativeinquiry.org/events/computational-embroidery-workshop), but we will be walking through the installation and setup process
 
-[Install Processing ](https://processing.org/download)
+###### Links to Download
 
-[Install PEmbroider](https://github.com/CreativeInquiry/PEmbroider#getting-started-with-pembroider-in-processing)
+ 1. Install Processing [HERE](https://processing.org/download)
+ 2. Install PEmbroider [HERE](https://github.com/CreativeInquiry/PEmbroider#getting-started-with-pembroider-in-processing)
+
+###### How to Install
+
+  1. F[Installing Processing and PEmbroider](https://docs.google.com/presentation/d/1Rkik3dFekY7exA3-JYtDWrCEm20HoNXpOyrrppvycws/edit?usp=sharing)
 
 ### PEmbroider Demo
 *This section is an in person live demonstration *
