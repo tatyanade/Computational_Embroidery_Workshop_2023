@@ -38,7 +38,7 @@ February 25th, 2023
 |  *1:15* |**Lea Albaugh** |
 |  *2:00* |**Examples of Other Artists & a Small Break** |
 |  *2:30* |**Shape and Typography Excercise** |
-|  *3:30* |**Open Work Time **|
+|  *3:30* |**Open Work Time**|
 |  *5:00* |**Show and Tell** |
 |  *5:30* |**Wrapping Things Up** |
 
