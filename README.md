@@ -144,7 +144,7 @@ Lea will be discussing creative explorations with textiles machines.
 ---
 ## Exploring Computational Embroidery Through Patches!
 
-### Worked examples and how to get what you want <-------------- TO DO
+### How to get what you want for with embroidered patches
 Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-OyskjZIaIB5jNzxxukyqoVCDe2XmsWOVkLA8TZQuS8MAPX_eZnAIyRwa_gKI4ocLUE1fDItWiu/pub?start=false&loop=false&delayms=3000). 
 
 
