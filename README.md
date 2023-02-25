@@ -38,7 +38,7 @@ February 25th, 2023
 |  *12:30* |**Huw Messi**| 
 |  *1:15* |**Lea Albaugh** |
 |  *2:00* |**Examples of Other Artists & a Small Break** |
-|  *2:30* |**Shape and Typography Excercise** |
+|  *2:30* |**Computational Patchy Patches** |
 |  *3:30* |**Open Work Time**|
 |  *5:00* |**Show and Tell** |
 |  *5:30* |**Wrapping Things Up** |
