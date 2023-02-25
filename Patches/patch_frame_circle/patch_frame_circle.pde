@@ -21,7 +21,7 @@ public void setup() {
   
   
   
-  //-------Draws Cirlce Border------------
+  //-------Draws Circle Border------------
 
   E.strokeLocation(E.INSIDE);   // stroke is completely inset within the shape
   E.strokeMode(E.PERPENDICULAR);
