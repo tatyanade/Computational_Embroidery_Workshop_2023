@@ -112,6 +112,8 @@ We'll walk through the basic steps of running a design on the machine as enumera
 ### Huw Messi
 "[Huw Messi] is an artist who produces work in the realm of experimental digital media and textiles". [(Huw Messi)](https://huwmessie.com/)
 
+[Huw's Github](https://github.com/huwythechew/EmbroiderWorkflow)
+
 Huw will be discussing creating animations through embroidery.
 
 ### Lea Albaugh
