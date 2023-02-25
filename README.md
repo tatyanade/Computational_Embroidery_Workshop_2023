@@ -31,16 +31,16 @@ February 25th, 2023
 
 | Time | Description |
 | --- | --- |
-|  *10:00* |  Workshop starts & Intros|
-|  *10:30* |Intro to Machines and PEmbroider|
-|  *12:00* |Lunch!|
-|  *12:30* |Huw Messi| 
-|  *1:15* |Lea Albaugh |
-|  *2:00* |Examples of other artists & a small break |
-|  *2:30* |Shape and Typography Excercise |
-|  *3:30* |open work time |
-|  *5:00* |show and tell |
-|  *5:30* |wrapping things up |
+|  *10:00* |  **Workshop Starts & Intros** |
+|  *10:30* |**Intro to Machines and PEmbroider**|
+|  *12:00* |lunch!|
+|  *12:30* |**Huw Messi**| 
+|  *1:15* |**Lea Albaugh** |
+|  *2:00* |**Examples of Other Artists & a Small Break** |
+|  *2:30* |**Shape and Typography Excercise** |
+|  *3:30* |**Open Work Time **|
+|  *5:00* |**Show and Tell** |
+|  *5:30* |**Wrapping Things Up** |
 
 
 ---
