@@ -38,7 +38,7 @@ February 25th, 2023
 |  *12:30* |**Huw Messi**| 
 |  *1:15* |**Lea Albaugh** |
 |  *2:00* |**Examples of Other Artists & a Small Break** |
-|  *2:30* |**Shape and Typography Excercise** |
+|  *2:30* |**Computational Patchy Patches** |
 |  *3:30* |**Open Work Time**|
 |  *5:00* |**Show and Tell** |
 |  *5:30* |**Wrapping Things Up** |
@@ -60,7 +60,7 @@ Here discuss a lil' bit of the history and inner workings of sewing machines. Th
 
 [PEmbroider](https://github.com/CreativeInquiry/PEmbroider)
 
-https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet.md
+[PEmbroider Cheat Sheet](https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet.md)
 
 
 ### Getting Set Up
@@ -78,13 +78,14 @@ Processing and PEmbroider should be installed before the workshop following the 
 
 
 ### PEmbroider Demo
-*This section is an in person live demonstration *
+*This section is an in person live demonstration*
 <!--  Live Demo of generative faces-->
 
 #### Demo 1 - Basic Shapes using the Template File
 ###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/PEmbroider_Template/PEmbroider_Template.pde) for the template file*
-
+###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/Examples/PEmbroider_Template_Complete/PEmbroider_Template_Complete.pde) for completed demo*
 This demonstration will walk you through the PEmbroider template file and show how to create some simple shapes
+
 
 #### Demo 2 - Freehand Draw
 ###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/Examples/freehand_draw/freehand_draw.pde) for the drawing file*
@@ -111,6 +112,8 @@ We'll walk through the basic steps of running a design on the machine as enumera
 ### Huw Messi
 "[Huw Messi] is an artist who produces work in the realm of experimental digital media and textiles". [(Huw Messi)](https://huwmessie.com/)
 
+[Huw's Github](https://github.com/huwythechew/EmbroiderWorkflow)
+
 Huw will be discussing creating animations through embroidery.
 
 ### Lea Albaugh
@@ -118,17 +121,9 @@ Huw will be discussing creating animations through embroidery.
 
 Lea will be discussing creative explorations with textiles machines.
 
-## Additional Artists and Work
+## Additional Work
 
-###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4TtG8VSkO8onIKhHigl0xn3PmlJVxeHjHBQ6iU5O0AwijhrTe6jEShGl6ci5QKUn556YA1CCbx/pub?start=false&loop=false&delayms=3000) *
-
-#### People!
-[Huw Messi](https://huwmessie.com/)
-
-[Lea Albaugh](http://lea.zone/)
-
-[Meredith Woolnough](https://meredithwoolnough.com.au/)
-
+###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4TtG8VSkO8onIKhHigl0xn3PmlJVxeHjHBQ6iU5O0AwijhrTe6jEShGl6ci5QKUn556YA1CCbx/pub?start=false&loop=false&delayms=3000)*
 
 #### Projects 
 
@@ -146,7 +141,7 @@ Lea will be discussing creative explorations with textiles machines.
 We walk through some techniques for creating dimensional and interesting pathches. See the next section for the project!
 
 ### Patches Project
-###### *Link to slide deck [here].*
+###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vQ9d60TNxQwBDGkGjD2NlqAZdWdSVCR6IYpXMld13OkkHtLOA68R7ryzWXJ3EKyPWxzzioLw_KydzDf/pub?start=false&loop=false&delayms=10000).*
 You'll be walking away from this workshop with a custom patch! Make something unique and experiment!
 
 ### Helpful tips for Worktime
@@ -161,4 +156,4 @@ You'll be walking away from this workshop with a custom patch! Make something un
 3. USB Stick (shared)
 ---
 
-##Show & Tell!!!
+## Show & Tell!!!
