@@ -68,7 +68,7 @@ Processing and PEmbroider should be installed before the workshop as per the [ev
 ##### Links to Download
 
  1. Install Processing [HERE](https://processing.org/download)
- 2. Install PEmbroider [HERE](https://github.com/CreativeInquiry/PEmbroider#getting-started-with-pembroider-in-processing)
+ 2. Install PEmbroider [HERE](https://github.com/CreativeInquiry/PEmbroider#tldr)
 
 ##### How to Install
 
