@@ -46,7 +46,6 @@ February 25th, 2023
 ---
 ## The Tools - Intro to Machines and PEmbroider
 ### What is a Sewing Machine?
-![Sewing Machine Gif](https://cdn.theatlantic.com/assets/media/img/posts/just_in_case_you_ever_wonder_how_a_sewing_machine_works-98670.gif)
 ![Sewing Cat Gif](https://media.tenor.com/n-9i38BYM-EAAAAM/costura-swing.gif)
 
 ###### *Click [Here](https://docs.google.com/presentation/d/e/2PACX-1vTAdaZe6wcDj0Bdsu92sa7bdMMFb0F99oHa8dLMGpH5MlVAOQsQtwssvYYpROB5wzAfOXuxg8wqC0Gc/pub?start=false&loop=false&delayms=15000) for slide deck*
