@@ -78,7 +78,7 @@ Processing and PEmbroider should be installed before the workshop following the 
 
 
 ### PEmbroider Demo
-*This section is an in person live demonstration *
+*This section is an in person live demonstration*
 <!--  Live Demo of generative faces-->
 
 #### Demo 1 - Basic Shapes using the Template File
@@ -118,17 +118,9 @@ Huw will be discussing creating animations through embroidery.
 
 Lea will be discussing creative explorations with textiles machines.
 
-## Additional Artists and Work
+## Additional Work
 
-###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4TtG8VSkO8onIKhHigl0xn3PmlJVxeHjHBQ6iU5O0AwijhrTe6jEShGl6ci5QKUn556YA1CCbx/pub?start=false&loop=false&delayms=3000) *
-
-#### People!
-[Huw Messi](https://huwmessie.com/)
-
-[Lea Albaugh](http://lea.zone/)
-
-[Meredith Woolnough](https://meredithwoolnough.com.au/)
-
+###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4TtG8VSkO8onIKhHigl0xn3PmlJVxeHjHBQ6iU5O0AwijhrTe6jEShGl6ci5QKUn556YA1CCbx/pub?start=false&loop=false&delayms=3000)*
 
 #### Projects 
 
