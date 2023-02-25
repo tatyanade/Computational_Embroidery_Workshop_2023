@@ -21,7 +21,7 @@ public void setup() {
   //-------File saving & preview-----------
   
   //E.optimize(); // slow but good and important
-  //E.visualize(true, true, true); 
-  E.endDraw(); // write out the file
+  E.visualize(); 
+  //E.endDraw(); // write out the file
   //save("File_Name.png");
 }
