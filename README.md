@@ -110,7 +110,7 @@ Lea will be discussing creative explorations with textiles machines.
 
 ## Additional Artists and Work
 
-Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4TtG8VSkO8onIKhHigl0xn3PmlJVxeHjHBQ6iU5O0AwijhrTe6jEShGl6ci5QKUn556YA1CCbx/pub?start=false&loop=false&delayms=3000)
+###### * Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4TtG8VSkO8onIKhHigl0xn3PmlJVxeHjHBQ6iU5O0AwijhrTe6jEShGl6ci5QKUn556YA1CCbx/pub?start=false&loop=false&delayms=3000) *
 
 #### People!
 [Huw Messi](https://huwmessie.com/)
