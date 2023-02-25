@@ -123,7 +123,7 @@ Lea will be discussing creative explorations with textiles machines.
 
 ## Additional Artists and Work
 
-###### * Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4TtG8VSkO8onIKhHigl0xn3PmlJVxeHjHBQ6iU5O0AwijhrTe6jEShGl6ci5QKUn556YA1CCbx/pub?start=false&loop=false&delayms=3000) *
+###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4TtG8VSkO8onIKhHigl0xn3PmlJVxeHjHBQ6iU5O0AwijhrTe6jEShGl6ci5QKUn556YA1CCbx/pub?start=false&loop=false&delayms=3000) *
 
 #### People!
 [Huw Messi](https://huwmessie.com/)
@@ -145,12 +145,16 @@ Lea will be discussing creative explorations with textiles machines.
 ## Exploring Computational Embroidery Through Patches!
 
 ### How to get what you want for with embroidered patches
-Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-OyskjZIaIB5jNzxxukyqoVCDe2XmsWOVkLA8TZQuS8MAPX_eZnAIyRwa_gKI4ocLUE1fDItWiu/pub?start=false&loop=false&delayms=3000). 
+###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-OyskjZIaIB5jNzxxukyqoVCDe2XmsWOVkLA8TZQuS8MAPX_eZnAIyRwa_gKI4ocLUE1fDItWiu/pub?start=false&loop=false&delayms=3000).*
+We walk through some techniques for creating dimensional and interesting pathches. See the next section for the project!
 
+### Patches Project
+###### *Link to slide deck [here].*
+You'll be walking away from this workshop with a custom patch! Make something unique and experiment!
 
 ### Helpful tips for Worktime
 1. [How to run the machine](https://docs.google.com/presentation/d/e/2PACX-1vQVq65vxieUifnK--Cz89FvC3j3btl6008KHzywgw5TtX3Pc2qGqh7uq2OmRntF-iHUWrgH4VbgR600/pub?start=false&loop=false&delayms=3000)
-2. [PEmbroider Cheat sheet] (https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet.md)
+2. [PEmbroider Cheat sheet](https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet.md)
 3. Machine file types:
     1. **Brother:** .pes
     2. **Husqvarna:** .vp3
