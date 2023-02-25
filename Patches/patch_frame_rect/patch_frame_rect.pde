@@ -22,6 +22,7 @@ public void setup() {
   
   E.strokeLocation(E.INSIDE);   // stroke is completely inset within the shape
   E.strokeMode(E.PERPENDICULAR);
+  E.setStitch(5,30,0);
   E.strokeWeight(30); 
   E.strokeSpacing(2);
   E.rect(5, 5, 550,600);

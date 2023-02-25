@@ -27,6 +27,7 @@ public void setup() {
   E.strokeMode(E.PERPENDICULAR);
   E.strokeWeight(30); 
   E.strokeSpacing(2);
+  E.setStitch(5,35,0);
   E.circle(width/2, height/2, 600);
   
   //-------File saving & preview-----------
