@@ -23,8 +23,7 @@ public void setup() {
   E.strokeMode(E.TANGENT);
   E.rect(50,50,100,300);
   
-  //E.noStroke();
-  E.strokeWeight(15);
+  E.noStroke();
   E.fill(0,255,0);
   E.hatchMode(E.PERLIN);
   E.circle(350,350,200);
