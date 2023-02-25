@@ -83,8 +83,9 @@ Processing and PEmbroider should be installed before the workshop following the 
 
 #### Demo 1 - Basic Shapes using the Template File
 ###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/PEmbroider_Template/PEmbroider_Template.pde) for the template file*
-
+###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/Examples/PEmbroider_Template_Complete/PEmbroider_Template_Complete.pde) for completed demo*
 This demonstration will walk you through the PEmbroider template file and show how to create some simple shapes
+
 
 #### Demo 2 - Freehand Draw
 ###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/Examples/freehand_draw/freehand_draw.pde) for the drawing file*
