@@ -18,7 +18,7 @@ This workshop is lead by David Perry & Tatyana Mustakos, both of whom were have 
 6. [Wonderful Embroidery Artists & Work! What does Computational and Experimental Embroidery look like?](Wonderful-Embroidery-Artists)
     1. [Huw Messi](#huw-messi)
     2. [Lea Albaugh](#lea-albaugh)
-    3. [Artists and Work](#artists-and-work)
+    3. [Additional Work](#additional-work)
 10. [Exploring Computational Embroidery Through Patches!](#exploring-computational-embroidery-through-patches)
     1. [Examples](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/edit/main/README.md#how-to-get-what-you-want-for-with-embroidered-patches)
     2. [Project Prompt](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/edit/main/README.md#patches-project)
@@ -117,9 +117,14 @@ We'll walk through the basic steps of running a design on the machine as enumera
 Huw will be discussing creating animations through embroidery.
 
 ### Lea Albaugh
+
+###### *Click [HERE](https://raw.githubusercontent.com/tatyanade/Computational_Embroidery_Workshop_2023/main/Lea-Albaugh_machine_embroidery_slides_Feb2023.pdf) for Lea's slides* 
+
 "[Lea Albaugh] is a PhD student at the Carnegie Mellon University Human-Computer Interaction Institute, working with the Morphing Matter Lab and the DevLab, and informally with the Textiles Lab". [(Lea Albaugh)](http://lea.zone/)
 
 Lea will be discussing creative explorations with textiles machines.
+
+
 
 ## Additional Work
 
