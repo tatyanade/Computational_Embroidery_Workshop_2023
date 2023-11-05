@@ -126,7 +126,7 @@ Lea will be discussing creative explorations with textiles machines.
 
 
 
-## Additional Work
+### Additional Work
 
 ###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4TtG8VSkO8onIKhHigl0xn3PmlJVxeHjHBQ6iU5O0AwijhrTe6jEShGl6ci5QKUn556YA1CCbx/pub?start=false&loop=false&delayms=3000)*
 
